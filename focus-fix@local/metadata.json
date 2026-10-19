@@ -1,0 +1,7 @@
+{
+  "uuid": "focus-fix@local",
+  "name": "Focus Fix",
+  "description": "Activates windows, removes the 'window is ready' message",
+  "shell-version": ["50"],
+  "version": 1
+}
